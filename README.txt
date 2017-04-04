@@ -1,1 +1,1 @@
-Paul
+Paul Darling's Qt projects
